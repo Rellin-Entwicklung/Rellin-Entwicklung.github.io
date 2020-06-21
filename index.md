@@ -20,4 +20,4 @@ As James Bond said:
 > den Sie da beinahe anhaben. Gefällt mir.“
 > Diamantenfieber 1971
 
-img src=https://image.gala.de/22165290/2x3-300-450/77dfd44ce2fb6c4fbc58fe04ddd5f7a0/xU/26--die-dreharbeiten-sind-offiziell-beendet---2-3---spoton-article-731889.jpg
+<img src=https://image.gala.de/22165290/2x3-300-450/77dfd44ce2fb6c4fbc58fe04ddd5f7a0/xU/26--die-dreharbeiten-sind-offiziell-beendet---2-3---spoton-article-731889.jpg>
