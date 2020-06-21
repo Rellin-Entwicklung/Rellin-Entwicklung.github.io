@@ -13,3 +13,9 @@ von allererster Güte, mein Gott, sind denn jetzt die 30 Worte voll ?
 * schick
 * frech
 * mutig
+
+As James Bond said:
+
+> „Ein bezaubernder Hauch von Nichts, 
+> den Sie da beinahe anhaben. Gefällt mir.“
+> Diamantenfieber 1971
