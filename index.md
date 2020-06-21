@@ -1,5 +1,7 @@
+
 # James Bond 007 - gmein Lieblingscharakter
 
 mein Lieblingscharakter ist der britische Geheimagent James Bond. Besonders toll neben den wirklich 
 tollen Filmsets finde ich imm die Autos und die schönen Frauen. Auch die die Ideen und die Stunts in den Filmen sind immer
 von allererster Güte, mein Gott, sind denn jetzt die 30 Worte voll ?
+
